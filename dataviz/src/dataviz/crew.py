@@ -65,7 +65,7 @@ class DataVizCrew():
 		return Task(
 			config=self.tasks_config['reporting_task'],
 			async_execution=False,
-			output_file='report.md'
+			output_file='generated_data/report.md'
 		)
 
 	@crew

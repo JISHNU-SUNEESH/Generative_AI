@@ -26,14 +26,15 @@ research_task:
     the current year is 2024
   expected_output: >
     A python code for visualization of the collected data and creating a blog-post with detailed 
-    summary in mark down format.
+    summary in mark down format.Make sure that the code is accurate. Add visual data such as 
+    supporting images as well.
 
   agent: researcher
 
 
 reporting_task:
   description: >
-    Execute the python code using the python_code_executor
+    Execute the python code using the python_code_executor.make sure that the image path is correct.
   expected_output: >
     A detailed summary along with the generated image for a blog-post
 
