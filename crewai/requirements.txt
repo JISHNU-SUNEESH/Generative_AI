@@ -1,0 +1,6 @@
+crewai
+crewai-tools
+langchain_mistralai
+langchain_google_genai
+load_dotenv
+vllm
