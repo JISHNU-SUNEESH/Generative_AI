@@ -6,7 +6,7 @@ The field of Artificial Intelligence (AI) has experienced phenomenal growth in t
 
 The AI market has witnessed explosive growth, with a substantial increase in market value from 2021 to 2024.  This signifies the increasing demand for AI-powered solutions across various sectors.  *(Include visualized data here - Market Size chart)*
 
-![AI Growth Visualization](ai_growth_visualization.png)
+![AI Growth Visualization](ai_market_growth.png)
 
 ## Investment Surge
 
