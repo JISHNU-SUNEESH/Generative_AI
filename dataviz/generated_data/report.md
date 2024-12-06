@@ -1,23 +1,31 @@
-## The Explosive Growth of Artificial Intelligence (2021-2024)
+![](3_Average_Investment_in_AI_Technology.png)
 
-The field of Artificial Intelligence has witnessed phenomenal growth in the past three years, transforming from a niche technology to a mainstream driver of innovation across industries.  This blog post summarizes the key trends and provides a visualization of the market's expansion.
+As we have observed previously, there has been a growing interest in AI technology over the past three years. One metric by which we can evaluate this growth is the average investment in AI technology each year. 
 
-**Key Observations:**
+To achieve this, we load the data into a pandas DataFrame and calculate the average investment for each year. Then, we plot the average investment over the past three years.
 
-* **Exponential Market Growth:** The AI market has experienced exponential growth, with projections indicating a market size reaching trillions of dollars by 2030. Several sources predict a compound annual growth rate (CAGR) exceeding 20%, signifying the rapid adoption of AI technologies.  For example, one source projects the market to reach \$2.74 trillion by 2032.
+From the data, we can see that the average investment in AI technology has been increasing over the past three years. This suggests that companies are becoming more comfortable with investing in AI technology, and we can expect this trend to continue in the future.
 
-* **Increased Investments:**  The surge in market size is fueled by substantial investments from both private and public sectors. Venture capital funding, corporate research and development spending, and government initiatives have all contributed to the growth.
+Plot 1: Total number of AI-related patents filed each year
 
-* **Wider Adoption Across Industries:** AI is no longer confined to tech giants.  Industries like healthcare, finance, manufacturing, and retail are increasingly integrating AI solutions to improve efficiency, optimize operations, and develop new products and services. 
+![](Total_Patents_Filed.png)
 
-* **Talent Acquisition and Development:** The demand for AI professionals has grown significantly, leading to increased competition for skilled talent. Universities and online platforms are expanding their AI-related educational offerings to meet the growing demand.
+In addition to the average investment, we also looked at the total number of AI-related patents filed each year. This data suggests that there has been a consistent increase in the number of patents filed over the past three years.
 
-* **Ethical Considerations and Regulations:**  As AI becomes more pervasive, ethical concerns surrounding bias, transparency, and job displacement are gaining prominence.  Governments and organizations are actively working on developing regulations and guidelines to ensure responsible AI development and deployment.
+Plot 2: Percentage of companies using AI technology each year
 
-**Visualization:**
+![](Percentage_Companies_Use_AI.png)
 
-[Generated image: ai_market_growth.png]  (The image would be embedded here in an actual blog post)
+Another important metric is the percentage of companies using AI technology each year. The data suggests that the percentage of companies using AI technology has been increasing steadily over the past three years.
 
-**Future Outlook:**
+Plot 3: Average investment in AI technology each year
 
-The future of AI appears bright, with continued growth and innovation expected.  Emerging trends such as edge AI, explainable AI (XAI), and AI for sustainability will shape the next phase of AI development. The focus will likely shift towards developing more robust, ethical, and human-centered AI systems.
+![](Average_Investment_AI_Tech.png)
+
+The data also shows that the average investment in AI technology has been increasing over the past three years.
+
+This growth in investment in AI technology suggests that companies are becoming more comfortable with investing in AI and are recognizing its potential to drive business growth and innovation.
+
+More data and figures are available at:
+
+![](Source_Data.png)
